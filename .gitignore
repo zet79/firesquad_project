@@ -1,0 +1,10 @@
+# venv
+venv/
+.venv/
+env/
+.conda/
+env.yaml
+
+
+# data
+data/
